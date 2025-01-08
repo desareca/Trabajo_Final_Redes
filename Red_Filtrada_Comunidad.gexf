@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-06">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="categoria" type="int" />
+      <attribute id="2" title="review" type="int" />
+    </attributes>
+    <nodes>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="Feria Fluvial de Valdivia" />
+          <attvalue for="1" value="13795" />
+          <attvalue for="2" value="13795" />
+        </attvalues>
+      </node>
+      <node id="373" label="373">
+        <attvalues>
+          <attvalue for="0" value="Museo de Sitio Castillo San Pedro de Alcántara" />
+          <attvalue for="1" value="1100" />
+          <attvalue for="2" value="1100" />
+        </attvalues>
+      </node>
+      <node id="381" label="381">
+        <attvalues>
+          <attvalue for="0" value="Museo Naval Submarino O' Brien" />
+          <attvalue for="1" value="2430" />
+          <attvalue for="2" value="2430" />
+        </attvalues>
+      </node>
+      <node id="383" label="383">
+        <attvalues>
+          <attvalue for="0" value="Playa Los Molinos" />
+          <attvalue for="1" value="4568" />
+          <attvalue for="2" value="4568" />
+        </attvalues>
+      </node>
+      <node id="475" label="475">
+        <attvalues>
+          <attvalue for="0" value="&quot;La Cervecería&quot; Kunstmann" />
+          <attvalue for="1" value="19239" />
+          <attvalue for="2" value="19239" />
+        </attvalues>
+      </node>
+      <node id="785" label="785">
+        <attvalues>
+          <attvalue for="0" value="Mercado Municipal de Valdivia" />
+          <attvalue for="1" value="2027" />
+          <attvalue for="2" value="2027" />
+        </attvalues>
+      </node>
+      <node id="924" label="924">
+        <attvalues>
+          <attvalue for="0" value="Terminal de Buses Valdivia" />
+          <attvalue for="1" value="6956" />
+          <attvalue for="2" value="6956" />
+        </attvalues>
+      </node>
+      <node id="1099" label="1099">
+        <attvalues>
+          <attvalue for="0" value="Encuentro Costumbrista en la Costa Playa Grande de Niebla" />
+          <attvalue for="1" value="15349" />
+          <attvalue for="2" value="15349" />
+        </attvalues>
+      </node>
+      <node id="1139" label="1139">
+        <attvalues>
+          <attvalue for="0" value="Castillo San Sebastian de la Cruz, Corral. Sistema de fuertes de Valdivia" />
+          <attvalue for="1" value="6617" />
+          <attvalue for="2" value="6617" />
+        </attvalues>
+      </node>
+      <node id="1347" label="1347">
+        <attvalues>
+          <attvalue for="0" value="Museo de Sitio Castillo de Niebla" />
+          <attvalue for="1" value="8870" />
+          <attvalue for="2" value="8870" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="El Rincón de la Terraza" />
+          <attvalue for="1" value="162" />
+          <attvalue for="2" value="162" />
+        </attvalues>
+      </node>
+      <node id="1048" label="1048">
+        <attvalues>
+          <attvalue for="0" value="Plaza la Unión" />
+          <attvalue for="1" value="2608" />
+          <attvalue for="2" value="2608" />
+        </attvalues>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="0" value="Tronco Viejo" />
+          <attvalue for="1" value="362" />
+          <attvalue for="2" value="362" />
+        </attvalues>
+      </node>
+      <node id="688" label="688">
+        <attvalues>
+          <attvalue for="0" value="Portal Salto Huilo Huilo" />
+          <attvalue for="1" value="8259" />
+          <attvalue for="2" value="8259" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="Mirador Isla Gabriela" />
+          <attvalue for="1" value="385" />
+          <attvalue for="2" value="385" />
+        </attvalues>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="0" value="Panaderia Andalican" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="75" />
+        </attvalues>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="0" value="Panguipulli 7 lagos" />
+          <attvalue for="1" value="2367" />
+          <attvalue for="2" value="2367" />
+        </attvalues>
+      </node>
+      <node id="106" label="106">
+        <attvalues>
+          <attvalue for="0" value="Parque Neltume - Salto del Huilo Huilo" />
+          <attvalue for="1" value="576" />
+          <attvalue for="2" value="576" />
+        </attvalues>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="0" value="Cabañas huilipan" />
+          <attvalue for="1" value="1636" />
+          <attvalue for="2" value="1636" />
+        </attvalues>
+      </node>
+      <node id="1162" label="1162">
+        <attvalues>
+          <attvalue for="0" value="Parque Nacional Villarrica" />
+          <attvalue for="1" value="10578" />
+          <attvalue for="2" value="10578" />
+        </attvalues>
+      </node>
+      <node id="112" label="112">
+        <attvalues>
+          <attvalue for="0" value="Barcaza Huahum y Transportadora Puerto Fuy" />
+          <attvalue for="1" value="2914" />
+          <attvalue for="2" value="2914" />
+        </attvalues>
+      </node>
+      <node id="649" label="649">
+        <attvalues>
+          <attvalue for="0" value="Mirador Toledo" />
+          <attvalue for="1" value="1120" />
+          <attvalue for="2" value="1120" />
+        </attvalues>
+      </node>
+      <node id="699" label="699">
+        <attvalues>
+          <attvalue for="0" value="Mirador Rucatrehua" />
+          <attvalue for="1" value="1159" />
+          <attvalue for="2" value="1159" />
+        </attvalues>
+      </node>
+      <node id="1312" label="1312">
+        <attvalues>
+          <attvalue for="0" value="Reserva Biológica Huilo Huilo" />
+          <attvalue for="1" value="4342" />
+          <attvalue for="2" value="4342" />
+        </attvalues>
+      </node>
+      <node id="151" label="151">
+        <attvalues>
+          <attvalue for="0" value="Restaurant Igor's" />
+          <attvalue for="1" value="1561" />
+          <attvalue for="2" value="1561" />
+        </attvalues>
+      </node>
+      <node id="171" label="171">
+        <attvalues>
+          <attvalue for="0" value="Botellas Licorería" />
+          <attvalue for="1" value="3490" />
+          <attvalue for="2" value="3490" />
+        </attvalues>
+      </node>
+      <node id="950" label="950">
+        <attvalues>
+          <attvalue for="0" value="Portal Valdivia" />
+          <attvalue for="1" value="3418" />
+          <attvalue for="2" value="3418" />
+        </attvalues>
+      </node>
+      <node id="1218" label="1218">
+        <attvalues>
+          <attvalue for="0" value="Plaza de Los Ríos" />
+          <attvalue for="1" value="9424" />
+          <attvalue for="2" value="9424" />
+        </attvalues>
+      </node>
+      <node id="174" label="174">
+        <attvalues>
+          <attvalue for="0" value="Panaderia MALUC" />
+          <attvalue for="1" value="278" />
+          <attvalue for="2" value="278" />
+        </attvalues>
+      </node>
+      <node id="214" label="214">
+        <attvalues>
+          <attvalue for="0" value="Pizzantro pub restaurant" />
+          <attvalue for="1" value="248" />
+          <attvalue for="2" value="248" />
+        </attvalues>
+      </node>
+      <node id="895" label="895">
+        <attvalues>
+          <attvalue for="0" value="Plaza de Armas - Río Bueno" />
+          <attvalue for="1" value="1470" />
+          <attvalue for="2" value="1470" />
+        </attvalues>
+      </node>
+      <node id="219" label="219">
+        <attvalues>
+          <attvalue for="0" value="Salto De La Leona" />
+          <attvalue for="1" value="567" />
+          <attvalue for="2" value="567" />
+        </attvalues>
+      </node>
+      <node id="224" label="224">
+        <attvalues>
+          <attvalue for="0" value="Plaza De Armas De Paillaco" />
+          <attvalue for="1" value="735" />
+          <attvalue for="2" value="735" />
+        </attvalues>
+      </node>
+      <node id="622" label="622">
+        <attvalues>
+          <attvalue for="0" value="Terminal De Buses Paillaco" />
+          <attvalue for="1" value="1038" />
+          <attvalue for="2" value="1038" />
+        </attvalues>
+      </node>
+      <node id="233" label="233">
+        <attvalues>
+          <attvalue for="0" value="Playa Grande Coñaripe" />
+          <attvalue for="1" value="1225" />
+          <attvalue for="2" value="1225" />
+        </attvalues>
+      </node>
+      <node id="336" label="336">
+        <attvalues>
+          <attvalue for="0" value="Acotur Patagonia Chile - Agencia de Turismo &amp; Viajes" />
+          <attvalue for="1" value="1014" />
+          <attvalue for="2" value="1014" />
+        </attvalues>
+      </node>
+      <node id="258" label="258">
+        <attvalues>
+          <attvalue for="0" value="Rampa Barcaza Corral A Niebla" />
+          <attvalue for="1" value="1371" />
+          <attvalue for="2" value="1371" />
+        </attvalues>
+      </node>
+      <node id="551" label="551">
+        <attvalues>
+          <attvalue for="0" value="Transbordador Valdivia - Corral y Isla del Rey" />
+          <attvalue for="1" value="1583" />
+          <attvalue for="2" value="1583" />
+        </attvalues>
+      </node>
+      <node id="291" label="291">
+        <attvalues>
+          <attvalue for="0" value="Parque Saval" />
+          <attvalue for="1" value="8033" />
+          <attvalue for="2" value="8033" />
+        </attvalues>
+      </node>
+      <node id="303" label="303">
+        <attvalues>
+          <attvalue for="0" value="Restaurant La Loma" />
+          <attvalue for="1" value="374" />
+          <attvalue for="2" value="374" />
+        </attvalues>
+      </node>
+      <node id="304" label="304">
+        <attvalues>
+          <attvalue for="0" value="Termas el Rincon" />
+          <attvalue for="1" value="941" />
+          <attvalue for="2" value="941" />
+        </attvalues>
+      </node>
+      <node id="484" label="484">
+        <attvalues>
+          <attvalue for="0" value="Termas Geometricas" />
+          <attvalue for="1" value="7428" />
+          <attvalue for="2" value="7428" />
+        </attvalues>
+      </node>
+      <node id="313" label="313">
+        <attvalues>
+          <attvalue for="0" value="Portal Salto El Puma Backpackers" />
+          <attvalue for="1" value="445" />
+          <attvalue for="2" value="445" />
+        </attvalues>
+      </node>
+      <node id="356" label="356">
+        <attvalues>
+          <attvalue for="0" value="Mirador Teleférico" />
+          <attvalue for="1" value="258" />
+          <attvalue for="2" value="258" />
+        </attvalues>
+      </node>
+      <node id="389" label="389">
+        <attvalues>
+          <attvalue for="0" value="Chocolatería Entrelagos" />
+          <attvalue for="1" value="5696" />
+          <attvalue for="2" value="5696" />
+        </attvalues>
+      </node>
+      <node id="439" label="439">
+        <attvalues>
+          <attvalue for="0" value="Terminal de Buses Rio Bueno" />
+          <attvalue for="1" value="1187" />
+          <attvalue for="2" value="1187" />
+        </attvalues>
+      </node>
+      <node id="874" label="874">
+        <attvalues>
+          <attvalue for="0" value="Plaza 21 de Mayo" />
+          <attvalue for="1" value="651" />
+          <attvalue for="2" value="651" />
+        </attvalues>
+      </node>
+      <node id="460" label="460">
+        <attvalues>
+          <attvalue for="0" value="Río Bueno" />
+          <attvalue for="1" value="866" />
+          <attvalue for="2" value="866" />
+        </attvalues>
+      </node>
+      <node id="466" label="466">
+        <attvalues>
+          <attvalue for="0" value="Mirador Pullinque" />
+          <attvalue for="1" value="371" />
+          <attvalue for="2" value="371" />
+        </attvalues>
+      </node>
+      <node id="1004" label="1004">
+        <attvalues>
+          <attvalue for="0" value="Mirador Ñisoleufu" />
+          <attvalue for="1" value="1183" />
+          <attvalue for="2" value="1183" />
+        </attvalues>
+      </node>
+      <node id="471" label="471">
+        <attvalues>
+          <attvalue for="0" value="Lago Panguipulli" />
+          <attvalue for="1" value="826" />
+          <attvalue for="2" value="826" />
+        </attvalues>
+      </node>
+      <node id="658" label="658">
+        <attvalues>
+          <attvalue for="0" value="Castillo de la Pura y Limpia Concepción de Monforte de Lemos de Niebla" />
+          <attvalue for="1" value="480" />
+          <attvalue for="2" value="480" />
+        </attvalues>
+      </node>
+      <node id="711" label="711">
+        <attvalues>
+          <attvalue for="0" value="Café Haussmann Isla teja" />
+          <attvalue for="1" value="2641" />
+          <attvalue for="2" value="2641" />
+        </attvalues>
+      </node>
+      <node id="990" label="990">
+        <attvalues>
+          <attvalue for="0" value="Costanera Arturo Prat" />
+          <attvalue for="1" value="4696" />
+          <attvalue for="2" value="4696" />
+        </attvalues>
+      </node>
+      <node id="1294" label="1294">
+        <attvalues>
+          <attvalue for="0" value="Mirador Letras &quot;Valdivia&quot; Acceso Norte" />
+          <attvalue for="1" value="1184" />
+          <attvalue for="2" value="1184" />
+        </attvalues>
+      </node>
+      <node id="479" label="479">
+        <attvalues>
+          <attvalue for="0" value="Terminal De Buses La Unión" />
+          <attvalue for="1" value="722" />
+          <attvalue for="2" value="722" />
+        </attvalues>
+      </node>
+      <node id="480" label="480">
+        <attvalues>
+          <attvalue for="0" value="Rotisería Pichichus" />
+          <attvalue for="1" value="214" />
+          <attvalue for="2" value="214" />
+        </attvalues>
+      </node>
+      <node id="504" label="504">
+        <attvalues>
+          <attvalue for="0" value="Puerto Fuy" />
+          <attvalue for="1" value="462" />
+          <attvalue for="2" value="462" />
+        </attvalues>
+      </node>
+      <node id="596" label="596">
+        <attvalues>
+          <attvalue for="0" value="La Fuente 6-3" />
+          <attvalue for="1" value="703" />
+          <attvalue for="2" value="703" />
+        </attvalues>
+      </node>
+      <node id="631" label="631">
+        <attvalues>
+          <attvalue for="0" value="Restaurant Puerto Fuy" />
+          <attvalue for="1" value="1199" />
+          <attvalue for="2" value="1199" />
+        </attvalues>
+      </node>
+      <node id="878" label="878">
+        <attvalues>
+          <attvalue for="0" value="Eco Termas Pellaifa" />
+          <attvalue for="1" value="1078" />
+          <attvalue for="2" value="1078" />
+        </attvalues>
+      </node>
+      <node id="913" label="913">
+        <attvalues>
+          <attvalue for="0" value="Río Fui" />
+          <attvalue for="1" value="100" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="1001" label="1001">
+        <attvalues>
+          <attvalue for="0" value="Museo de los Volcanes" />
+          <attvalue for="1" value="540" />
+          <attvalue for="2" value="540" />
+        </attvalues>
+      </node>
+      <node id="1132" label="1132">
+        <attvalues>
+          <attvalue for="0" value="Mirador De Los Ciervos" />
+          <attvalue for="1" value="472" />
+          <attvalue for="2" value="472" />
+        </attvalues>
+      </node>
+      <node id="1282" label="1282">
+        <attvalues>
+          <attvalue for="0" value="Portal de Los Ciervos" />
+          <attvalue for="1" value="472" />
+          <attvalue for="2" value="472" />
+        </attvalues>
+      </node>
+      <node id="1319" label="1319">
+        <attvalues>
+          <attvalue for="0" value="Portal Caverna Volcánica" />
+          <attvalue for="1" value="1255" />
+          <attvalue for="2" value="1255" />
+        </attvalues>
+      </node>
+      <node id="1341" label="1341">
+        <attvalues>
+          <attvalue for="0" value="Cascada Salto del Puma" />
+          <attvalue for="1" value="532" />
+          <attvalue for="2" value="532" />
+        </attvalues>
+      </node>
+      <node id="689" label="689">
+        <attvalues>
+          <attvalue for="0" value="Restaurant La Abuela" />
+          <attvalue for="1" value="789" />
+          <attvalue for="2" value="789" />
+        </attvalues>
+      </node>
+      <node id="796" label="796">
+        <attvalues>
+          <attvalue for="0" value="Termas Coñaripe" />
+          <attvalue for="1" value="1986" />
+          <attvalue for="2" value="1986" />
+        </attvalues>
+      </node>
+      <node id="813" label="813">
+        <attvalues>
+          <attvalue for="0" value="Parque Krahmer" />
+          <attvalue for="1" value="1903" />
+          <attvalue for="2" value="1903" />
+        </attvalues>
+      </node>
+      <node id="856" label="856">
+        <attvalues>
+          <attvalue for="0" value="Termas Vergara" />
+          <attvalue for="1" value="1234" />
+          <attvalue for="2" value="1234" />
+        </attvalues>
+      </node>
+      <node id="859" label="859">
+        <attvalues>
+          <attvalue for="0" value="Club Artesanos" />
+          <attvalue for="1" value="139" />
+          <attvalue for="2" value="139" />
+        </attvalues>
+      </node>
+      <node id="901" label="901">
+        <attvalues>
+          <attvalue for="0" value="Mirador Ancapulli" />
+          <attvalue for="1" value="456" />
+          <attvalue for="2" value="456" />
+        </attvalues>
+      </node>
+      <node id="922" label="922">
+        <attvalues>
+          <attvalue for="0" value="Parroquia San Jose" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="58" />
+        </attvalues>
+      </node>
+      <node id="1116" label="1116">
+        <attvalues>
+          <attvalue for="0" value="Péndulo de Foucault" />
+          <attvalue for="1" value="2714" />
+          <attvalue for="2" value="2714" />
+        </attvalues>
+      </node>
+      <node id="1020" label="1020">
+        <attvalues>
+          <attvalue for="0" value="Plaza de la República" />
+          <attvalue for="1" value="4544" />
+          <attvalue for="2" value="4544" />
+        </attvalues>
+      </node>
+      <node id="1043" label="1043">
+        <attvalues>
+          <attvalue for="0" value="Parque Municipal De La Unión" />
+          <attvalue for="1" value="319" />
+          <attvalue for="2" value="319" />
+        </attvalues>
+      </node>
+      <node id="1147" label="1147">
+        <attvalues>
+          <attvalue for="0" value="Estadio Bancario" />
+          <attvalue for="1" value="311" />
+          <attvalue for="2" value="311" />
+        </attvalues>
+      </node>
+      <node id="1186" label="1186">
+        <attvalues>
+          <attvalue for="0" value="Restaurante Perú Milenario" />
+          <attvalue for="1" value="534" />
+          <attvalue for="2" value="534" />
+        </attvalues>
+      </node>
+      <node id="1350" label="1350">
+        <attvalues>
+          <attvalue for="0" value="Tur-Bus" />
+          <attvalue for="1" value="160" />
+          <attvalue for="2" value="160" />
+        </attvalues>
+      </node>
+      <node id="1075" label="1075">
+        <attvalues>
+          <attvalue for="0" value="Coñaripe, Playa Lago Calafquen" />
+          <attvalue for="1" value="2399" />
+          <attvalue for="2" value="2399" />
+        </attvalues>
+      </node>
+      <node id="1205" label="1205">
+        <attvalues>
+          <attvalue for="0" value="Playa Grande de Niebla" />
+          <attvalue for="1" value="2443" />
+          <attvalue for="2" value="2443" />
+        </attvalues>
+      </node>
+      <node id="1151" label="1151">
+        <attvalues>
+          <attvalue for="0" value="Volcán Villarrica" />
+          <attvalue for="1" value="891" />
+          <attvalue for="2" value="891" />
+        </attvalues>
+      </node>
+      <node id="1191" label="1191">
+        <attvalues>
+          <attvalue for="0" value="Lago Pellaifa" />
+          <attvalue for="1" value="1001" />
+          <attvalue for="2" value="1001" />
+        </attvalues>
+      </node>
+      <node id="1244" label="1244">
+        <attvalues>
+          <attvalue for="0" value="Calafquén Lake" />
+          <attvalue for="1" value="923" />
+          <attvalue for="2" value="923" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="5" target="373" id="0" />
+      <edge source="5" target="381" id="1" />
+      <edge source="5" target="383" id="2" />
+      <edge source="5" target="475" id="3" />
+      <edge source="5" target="785" id="4" />
+      <edge source="5" target="924" id="5" />
+      <edge source="5" target="1099" id="6" />
+      <edge source="5" target="1139" id="7" />
+      <edge source="5" target="1347" id="8" />
+      <edge source="373" target="475" id="9" />
+      <edge source="373" target="1139" id="10" />
+      <edge source="373" target="1347" id="11" />
+      <edge source="381" target="475" id="12" />
+      <edge source="381" target="1139" id="13" />
+      <edge source="381" target="1347" id="14" />
+      <edge source="383" target="151" id="15" />
+      <edge source="383" target="1099" id="16" />
+      <edge source="475" target="389" id="17" />
+      <edge source="475" target="484" id="18" />
+      <edge source="475" target="658" id="19" />
+      <edge source="475" target="711" id="20" />
+      <edge source="475" target="990" id="21" />
+      <edge source="475" target="1099" id="22" />
+      <edge source="475" target="1139" id="23" />
+      <edge source="475" target="1294" id="24" />
+      <edge source="475" target="1347" id="25" />
+      <edge source="785" target="924" id="26" />
+      <edge source="924" target="622" id="27" />
+      <edge source="924" target="950" id="28" />
+      <edge source="924" target="1218" id="29" />
+      <edge source="1099" target="291" id="30" />
+      <edge source="1099" target="990" id="31" />
+      <edge source="1099" target="1139" id="32" />
+      <edge source="1099" target="1205" id="33" />
+      <edge source="1099" target="1347" id="34" />
+      <edge source="1139" target="258" id="35" />
+      <edge source="1139" target="551" id="36" />
+      <edge source="1139" target="689" id="37" />
+      <edge source="1139" target="1347" id="38" />
+      <edge source="1347" target="1116" id="39" />
+      <edge source="25" target="1048" id="40" />
+      <edge source="1048" target="90" id="41" />
+      <edge source="1048" target="174" id="42" />
+      <edge source="1048" target="303" id="43" />
+      <edge source="1048" target="439" id="44" />
+      <edge source="1048" target="460" id="45" />
+      <edge source="1048" target="479" id="46" />
+      <edge source="1048" target="596" id="47" />
+      <edge source="1048" target="859" id="48" />
+      <edge source="1048" target="895" id="49" />
+      <edge source="1048" target="922" id="50" />
+      <edge source="1048" target="1043" id="51" />
+      <edge source="1048" target="1147" id="52" />
+      <edge source="1048" target="1186" id="53" />
+      <edge source="1048" target="1350" id="54" />
+      <edge source="38" target="688" id="55" />
+      <edge source="688" target="82" id="56" />
+      <edge source="688" target="99" id="57" />
+      <edge source="688" target="106" id="58" />
+      <edge source="688" target="112" id="59" />
+      <edge source="688" target="219" id="60" />
+      <edge source="688" target="313" id="61" />
+      <edge source="688" target="356" id="62" />
+      <edge source="688" target="471" id="63" />
+      <edge source="688" target="484" id="64" />
+      <edge source="688" target="504" id="65" />
+      <edge source="688" target="631" id="66" />
+      <edge source="688" target="649" id="67" />
+      <edge source="688" target="699" id="68" />
+      <edge source="688" target="878" id="69" />
+      <edge source="688" target="913" id="70" />
+      <edge source="688" target="1001" id="71" />
+      <edge source="688" target="1004" id="72" />
+      <edge source="688" target="1132" id="73" />
+      <edge source="688" target="1162" id="74" />
+      <edge source="688" target="1218" id="75" />
+      <edge source="688" target="1282" id="76" />
+      <edge source="688" target="1312" id="77" />
+      <edge source="688" target="1319" id="78" />
+      <edge source="688" target="1341" id="79" />
+      <edge source="107" target="1162" id="80" />
+      <edge source="1162" target="112" id="81" />
+      <edge source="1162" target="233" id="82" />
+      <edge source="1162" target="336" id="83" />
+      <edge source="1162" target="484" id="84" />
+      <edge source="1162" target="796" id="85" />
+      <edge source="1162" target="856" id="86" />
+      <edge source="1162" target="901" id="87" />
+      <edge source="1162" target="1004" id="88" />
+      <edge source="1162" target="1075" id="89" />
+      <edge source="1162" target="1151" id="90" />
+      <edge source="1162" target="1191" id="91" />
+      <edge source="1162" target="1244" id="92" />
+      <edge source="1162" target="1312" id="93" />
+      <edge source="112" target="649" id="94" />
+      <edge source="112" target="699" id="95" />
+      <edge source="112" target="1312" id="96" />
+      <edge source="1312" target="219" id="97" />
+      <edge source="1312" target="313" id="98" />
+      <edge source="1312" target="356" id="99" />
+      <edge source="1312" target="484" id="100" />
+      <edge source="1312" target="631" id="101" />
+      <edge source="171" target="950" id="102" />
+      <edge source="171" target="1218" id="103" />
+      <edge source="950" target="1218" id="104" />
+      <edge source="1218" target="484" id="105" />
+      <edge source="1218" target="813" id="106" />
+      <edge source="1218" target="1020" id="107" />
+      <edge source="214" target="895" id="108" />
+      <edge source="895" target="439" id="109" />
+      <edge source="895" target="480" id="110" />
+      <edge source="895" target="874" id="111" />
+      <edge source="224" target="622" id="112" />
+      <edge source="622" target="439" id="113" />
+      <edge source="233" target="336" id="114" />
+      <edge source="258" target="551" id="115" />
+      <edge source="304" target="484" id="116" />
+      <edge source="439" target="874" id="117" />
+      <edge source="466" target="1004" id="118" />
+      <edge source="990" target="1116" id="119" />
+    </edges>
+  </graph>
+</gexf>
